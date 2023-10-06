@@ -38,7 +38,7 @@
 
 ## Créditos y Agradecimientos 🤗
 
-- Desarrollado por [Tu Nombre/Apodo](https://github.com/TuNombreDeUsuario).
+- Desarrollado por Ferran226([https://github.com/Ferran226])
 - Basado en el potente motor de inteligencia artificial GPT-3.5 de OpenAI.
 
 ## Licencia 📝
