@@ -6,7 +6,7 @@
 
 **Pantalla Inicial:**
 
-![Pantalla Inicial](inserta_tu_url_de_la_captura_de_pantalla_de_la_pantalla_inicial.jpg)
+![Pantalla Inicial](pantalla_inicial.jpg)
 
 **Ejemplo de Interfaz Gráfica:**
 
