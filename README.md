@@ -6,11 +6,11 @@
 
 **Pantalla Inicial:**
 
-![Pantalla Inicial](pantalla_inicial.jpg)
+![Pantalla Inicial](pantalla_inicial.png)
 
 **Ejemplo de Interfaz Gráfica:**
 
-![Interfaz Gráfica en Acción](inserta_tu_url_de_la_captura_de_pantalla_de_la_interfaz_grafica.jpg)
+![Interfaz Gráfica en Acción](interfaz_grafica.png)
 
 ## Características Geniales ✨
 
