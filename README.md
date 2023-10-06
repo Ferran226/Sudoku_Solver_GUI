@@ -6,7 +6,7 @@
 
 **Pantalla Inicial:**
 
-![Pantalla Inicial](pantalla_inicial.png){width=300px}
+![Pantalla Inicial](pantalla_inicial.png){width=200px height=200px}
 
 **Ejemplo de Interfaz Gráfica:**
 
