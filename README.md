@@ -1,4 +1,58 @@
-# Sudoku Solver GUI 🧩
+# 🇺🇸 Sudoku Solver GUI 🧩
+
+Hello, everyone! I'm Ferran226! 😄 Welcome to the exciting world of Sudoku Solver GUI! 🎉
+
+**Are you ready to challenge your mind with this addictive game?** This project is my perfect companion to test your Sudoku skills. We've created a **magical graphical interface** that will take you on a fun and challenging adventure. 🪄
+
+## Screenshots 📸
+
+**Initial Screen:**
+
+![Initial Screen](pantalla_inicial.png)
+
+**Example of the Graphical Interface:**
+
+![Graphical Interface in Action](interfaz_grafica.png)
+
+## Cool Features ✨
+
+- **Solve and Play!** This program not only solves Sudoku but allows you to play and challenge your friends as well. 🎮
+
+- **User-Friendly Graphical Interface:** We've designed an easy-to-use graphical interface, making it enjoyable for everyone! 🖥️
+
+- **Real-Time Validation:** Prevent mistakes by entering incorrect numbers; the program will mark cells with invalid numbers. No cheating allowed! 🕵️‍♂️
+
+- **Magic Eraser:** If you make a mistake, simply erase numbers with a magical click. 🗑️
+
+## Getting Started 🚀
+
+1. **Clone this Repository:** Download the code to your computer.
+
+2. **Install Python and pygame:** Ensure you have Python and the pygame library installed. 🐍
+
+3. **Run `main.py`:** It's time to start the fun! Execute the `main.py` file. 🔥
+
+4. **Play and Solve:** Use the mouse to select cells and the keyboard to enter numbers. Accept the Sudoku challenge! 🧩
+
+## Contribute and Have Fun 🙌
+
+Do you have great ideas to enhance this project? I'd love to hear them! Open a pull request or create an issue. Let's make this even better together! 🤝
+
+## Credits and Acknowledgments 🤗
+
+- Developed with love by [Ferran226](https://github.com/Ferran226). 💖
+- Based on the powerful artificial intelligence engine GPT-3.5 by OpenAI. 🤖
+
+## License 📝
+
+This project is under the MIT License. Refer to the [LICENSE](LICENSE) file for more details. 📜
+
+
+Have fun solving Sudoku and share this project with your friends! If you have any questions or suggestions, feel free to get in touch. May Sudoku fun and challenges always accompany you! 🧠🎉🚀
+
+---
+
+# 🇪🇸 Sudoku Solver GUI 🧩
 
 ¡Hola a todos, soy Ferran226! 😄 ¡Bienvenidos al emocionante mundo del Sudoku Solver GUI! 🎉
 
